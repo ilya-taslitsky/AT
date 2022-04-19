@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_252" class="java.beans.XMLDecoder">
+ <object class="myXML" id="myXML0">
+  <void class="myXML" method="getField">
+   <string>name</string>
+   <void method="set">
+    <object idref="myXML0"/>
+    <string>The Bourne Identity</string>
+   </void>
+  </void>
+  <void class="myXML" method="getField">
+   <string>runtime</string>
+   <void method="set">
+    <object idref="myXML0"/>
+    <int>119</int>
+   </void>
+  </void>
+  <void class="myXML" method="getField">
+   <string>directors</string>
+   <void method="set">
+    <object idref="myXML0"/>
+    <string>Doug Liman</string>
+   </void>
+  </void>
+  <void class="myXML" method="getField">
+   <string>released</string>
+   <void method="set">
+    <object idref="myXML0"/>
+    <int>2002</int>
+   </void>
+  </void>
+  <void class="myXML" method="getField">
+   <string>cast</string>
+   <void method="set">
+    <object idref="myXML0"/>
+    <string>Matt Damon, Franka Potente</string>
+   </void>
+  </void>
+ </object>
+</java>
